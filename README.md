@@ -22,6 +22,11 @@
 ## 🛠️ Stats
 ![](https://github-readme-stats.vercel.app/api?username=timwlm&show_icons=true&theme=dracula)
 
+<div align="center" style="margin-top: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devschlumpfi&layout=compact&theme=tokyonight&border_radius=15&hide_border=true" width="50%" />
+</div>
+
+
 ### 🟢 Discord Status
 
 <div align="center">

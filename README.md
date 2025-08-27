@@ -13,7 +13,7 @@
 ### 🟢 Discord Status
 
 <div align="center">
-  <img src="https://discord.c99.nl/widget/theme-2/917507801482416179.png" />
+  <img src="https://discord.c99.nl/widget/theme-4/917507801482416179.png" />
 </div>
 
 

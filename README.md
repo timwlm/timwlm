@@ -1,11 +1,16 @@
 ### Tim 👋
 
 <div align="center">
+🤖 Discord Developing
 
-- 🤖Discord Developing
-- Webanwendungen
+🌐 Webanwendungen
 
 </div>
+
+📝Lernt :
+
+-> 🔗 Websiten & Webanwendungen 
+
 
 ### 👨🏻‍💻 Tech Stack
 

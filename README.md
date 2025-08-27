@@ -3,7 +3,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=discordjs,nodejs,,js,html,c,,git,github,vscode&theme=light" />
+  <img src="https://skillicons.dev/icons?i=discordjs,nodejs,js,html,git,github,vscode&theme=light" />
 </p>
 
 

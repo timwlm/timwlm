@@ -1,5 +1,12 @@
 # Tim 👋
 
+<div align="center">
+
+- 🤖Discord Developing
+- Webanwendungen
+
+</div>
+
 ### 👨🏻‍💻 Tech Stack
 
 <p align="center">

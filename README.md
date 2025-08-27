@@ -10,6 +10,7 @@
 📝Lernt :
 
 -> 🔗 Websiten & Webanwendungen 
+-> 🛠️ CSS
 
 
 ### 👨🏻‍💻 Tech Stack
